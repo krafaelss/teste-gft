@@ -6,17 +6,17 @@ public class Program
 {
     private static readonly HttpClient Client = new();
 
-    public static void Main()
+    public static async Task Main()
     {
         var teamName = "Paris Saint-Germain";
         var year = 2013;
-        var totalGoals = getTotalScoredGoals(teamName, year).Result;
+        var totalGoals = await getTotalScoredGoals(teamName, year);
 
         Console.WriteLine("Team "+ teamName +" scored "+ totalGoals.ToString() + " goals in "+ year);
 
         teamName = "Chelsea";
         year = 2014;
-        totalGoals = getTotalScoredGoals(teamName, year).Result;
+        totalGoals = await getTotalScoredGoals(teamName, year);
 
         Console.WriteLine("Team " + teamName + " scored " + totalGoals.ToString() + " goals in " + year);
      

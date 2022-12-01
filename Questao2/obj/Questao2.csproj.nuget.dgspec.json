@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rssou\\OneDrive - BDS DataSolution\\Documents\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)\\Questao2\\Questao2.csproj": {}
+    "C:\\Users\\rssou\\source\\repos\\personal\\teste-gft\\Questao2\\Questao2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rssou\\OneDrive - BDS DataSolution\\Documents\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)\\Questao2\\Questao2.csproj": {
+    "C:\\Users\\rssou\\source\\repos\\personal\\teste-gft\\Questao2\\Questao2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rssou\\OneDrive - BDS DataSolution\\Documents\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)\\Questao2\\Questao2.csproj",
+        "projectUniqueName": "C:\\Users\\rssou\\source\\repos\\personal\\teste-gft\\Questao2\\Questao2.csproj",
         "projectName": "Questao2",
-        "projectPath": "C:\\Users\\rssou\\OneDrive - BDS DataSolution\\Documents\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)\\Questao2\\Questao2.csproj",
+        "projectPath": "C:\\Users\\rssou\\source\\repos\\personal\\teste-gft\\Questao2\\Questao2.csproj",
         "packagesPath": "C:\\Users\\rssou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rssou\\OneDrive - BDS DataSolution\\Documents\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)\\Questao2\\obj\\",
+        "outputPath": "C:\\Users\\rssou\\source\\repos\\personal\\teste-gft\\Questao2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rssou\\AppData\\Roaming\\NuGet\\NuGet.Config",
